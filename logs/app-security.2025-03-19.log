@@ -1,0 +1,136 @@
+2025-03-19 14:46:08 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 14:46:09 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "41f5b" for domain: app1
+2025-03-19 14:46:09 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "8587a" for domain: default
+2025-03-19 14:46:09 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "41f5b" for user admin1 in domain: app1
+2025-03-19 14:46:09 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "41f5b" for user user1 in domain: app1
+2025-03-19 14:46:09 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "41f5b" for user user2 in domain: app1
+2025-03-19 14:46:10 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "41f5b" for user user3 in domain: app1
+2025-03-19 14:46:10 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "41f5b" for user manager1 in domain: app1
+2025-03-19 14:46:43 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 14:46:44 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "9a0ff" for domain: app1
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "42912" for domain: default
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "9a0ff" for user admin1 in domain: app1
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "9a0ff" for user user1 in domain: app1
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "9a0ff" for user user2 in domain: app1
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "9a0ff" for user user3 in domain: app1
+2025-03-19 14:46:45 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "9a0ff" for user manager1 in domain: app1
+2025-03-19 14:48:46 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "98a7a" for domain: app1
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "ba087" for domain: default
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "98a7a" for user admin1 in domain: app1
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "98a7a" for user user1 in domain: app1
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "98a7a" for user user2 in domain: app1
+2025-03-19 14:48:49 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "98a7a" for user user3 in domain: app1
+2025-03-19 14:48:50 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "98a7a" for user manager1 in domain: app1
+2025-03-19 14:49:13 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "dcc40" for domain: app1
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "112ae" for domain: default
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "dcc40" for user admin1 in domain: app1
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "dcc40" for user user1 in domain: app1
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "dcc40" for user user2 in domain: app1
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "dcc40" for user user3 in domain: app1
+2025-03-19 14:49:14 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "dcc40" for user manager1 in domain: app1
+2025-03-19 15:33:25 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "f08ac" for domain: app1
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "b1b9e" for domain: default
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "f08ac" for user admin1 in domain: app1
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "f08ac" for user user1 in domain: app1
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "f08ac" for user user2 in domain: app1
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "f08ac" for user user3 in domain: app1
+2025-03-19 15:33:27 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "f08ac" for user manager1 in domain: app1
+2025-03-19 15:33:53 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 15:33:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "5036a" for domain: app1
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "b58fe" for domain: default
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "5036a" for user admin1 in domain: app1
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "5036a" for user user1 in domain: app1
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "5036a" for user user2 in domain: app1
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "5036a" for user user3 in domain: app1
+2025-03-19 15:33:55 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "5036a" for user manager1 in domain: app1
+2025-03-19 15:43:33 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 15:43:35 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "6f5e2" for domain: app1
+2025-03-19 15:43:35 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "692be" for domain: default
+2025-03-19 15:43:35 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "6f5e2" for user admin1 in domain: app1
+2025-03-19 15:43:35 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "6f5e2" for user user1 in domain: app1
+2025-03-19 15:43:35 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "6f5e2" for user user2 in domain: app1
+2025-03-19 15:43:36 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "6f5e2" for user user3 in domain: app1
+2025-03-19 15:43:36 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "6f5e2" for user manager1 in domain: app1
+2025-03-19 15:52:09 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 15:52:28 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "74691" for domain: app1
+2025-03-19 15:52:28 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "72257" for domain: default
+2025-03-19 15:52:36 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "74691" for user admin1 in domain: app1
+2025-03-19 15:52:36 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "74691" for user user1 in domain: app1
+2025-03-19 15:52:37 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "74691" for user user2 in domain: app1
+2025-03-19 15:52:37 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "74691" for user user3 in domain: app1
+2025-03-19 15:52:37 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "74691" for user manager1 in domain: app1
+2025-03-19 20:38:21 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 20:38:22 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "2077e" for domain: app1
+2025-03-19 20:38:22 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "cf16f" for domain: default
+2025-03-19 20:38:22 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2077e" for user admin1 in domain: app1
+2025-03-19 20:38:22 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2077e" for user user1 in domain: app1
+2025-03-19 20:38:22 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2077e" for user user2 in domain: app1
+2025-03-19 20:38:23 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2077e" for user user3 in domain: app1
+2025-03-19 20:38:23 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2077e" for user manager1 in domain: app1
+2025-03-19 20:38:56 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 20:38:59 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "2bf38" for domain: app1
+2025-03-19 20:38:59 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "a3c70" for domain: default
+2025-03-19 20:38:59 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2bf38" for user admin1 in domain: app1
+2025-03-19 20:39:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2bf38" for user user1 in domain: app1
+2025-03-19 20:39:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2bf38" for user user2 in domain: app1
+2025-03-19 20:39:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2bf38" for user user3 in domain: app1
+2025-03-19 20:39:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2bf38" for user manager1 in domain: app1
+2025-03-19 20:39:59 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 20:40:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "c707b" for domain: app1
+2025-03-19 20:40:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "7215f" for domain: default
+2025-03-19 20:40:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "c707b" for user admin1 in domain: app1
+2025-03-19 20:40:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "c707b" for user user1 in domain: app1
+2025-03-19 20:40:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "c707b" for user user2 in domain: app1
+2025-03-19 20:40:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "c707b" for user user3 in domain: app1
+2025-03-19 20:40:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "c707b" for user manager1 in domain: app1
+2025-03-19 21:00:00 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:00:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "ea4b5" for domain: app1
+2025-03-19 21:00:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "89131" for domain: default
+2025-03-19 21:00:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ea4b5" for user admin1 in domain: app1
+2025-03-19 21:00:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ea4b5" for user user1 in domain: app1
+2025-03-19 21:00:01 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ea4b5" for user user2 in domain: app1
+2025-03-19 21:00:02 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ea4b5" for user user3 in domain: app1
+2025-03-19 21:00:02 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ea4b5" for user manager1 in domain: app1
+2025-03-19 21:00:53 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "074cf" for domain: app1
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "3e5a8" for domain: default
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "074cf" for user admin1 in domain: app1
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "074cf" for user user1 in domain: app1
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "074cf" for user user2 in domain: app1
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "074cf" for user user3 in domain: app1
+2025-03-19 21:00:54 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "074cf" for user manager1 in domain: app1
+2025-03-19 21:09:58 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:09:59 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "ff572" for domain: app1
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "40dc8" for domain: default
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ff572" for user admin1 in domain: app1
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ff572" for user user1 in domain: app1
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ff572" for user user2 in domain: app1
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ff572" for user user3 in domain: app1
+2025-03-19 21:10:00 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "ff572" for user manager1 in domain: app1
+2025-03-19 21:19:52 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:19:52 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "2b03d" for domain: app1
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "61bdb" for domain: default
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2b03d" for user admin1 in domain: app1
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2b03d" for user user1 in domain: app1
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2b03d" for user user2 in domain: app1
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2b03d" for user user3 in domain: app1
+2025-03-19 21:19:53 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "2b03d" for user manager1 in domain: app1
+2025-03-19 21:33:46 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "63da4" for domain: app1
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "d319a" for domain: default
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "63da4" for user admin1 in domain: app1
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "63da4" for user user1 in domain: app1
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "63da4" for user user2 in domain: app1
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "63da4" for user user3 in domain: app1
+2025-03-19 21:33:48 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "63da4" for user manager1 in domain: app1
+2025-03-19 21:34:05 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - TEST SECURITY LOG - Should appear in security log
+2025-03-19 21:34:05 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "781fc" for domain: app1
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Created random default pin "068d8" for domain: default
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "781fc" for user admin1 in domain: app1
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "781fc" for user user1 in domain: app1
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "781fc" for user user2 in domain: app1
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "781fc" for user user3 in domain: app1
+2025-03-19 21:34:06 INFO  t.r.jwt.service.DatabaseInitService - IMPORTANT INFORMATION: Using DOMAIN DEFAULT pin "781fc" for user manager1 in domain: app1

@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+*.class
+
+# Kotlin build
+target/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+/logs/app-security.log
+/logs/application.log

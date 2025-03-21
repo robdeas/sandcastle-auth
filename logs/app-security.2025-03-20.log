@@ -1,0 +1,44 @@
+2025-03-20 23:41:43 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:41:44 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("59143") for domain: sandcastle-auth
+2025-03-20 23:41:44 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("ce207") for domain: app1
+2025-03-20 23:41:44 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("b4df1") for domain: default
+2025-03-20 23:41:44 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN  ("08fdd") set from config for user: authadmin in domain: sandcastle-auth
+2025-03-20 23:41:44 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("ce207") set by default from domain config for user: admin1 in domain: app1
+2025-03-20 23:41:45 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("ce207") set by default from domain config for user: user1 in domain: app1
+2025-03-20 23:41:45 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("ce207") set by default from domain config for user: user2 in domain: app1
+2025-03-20 23:41:45 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("ce207") set by default from domain config for user: user3 in domain: app1
+2025-03-20 23:41:45 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("ce207") set by default from domain config for user: manager1 in domain: app1
+2025-03-20 23:46:22 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("c5949") for domain: sandcastle-auth
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("918ba") for domain: app1
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("e71e6") for domain: default
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN  ("08fdd") set from config for user: authadmin in domain: sandcastle-auth
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("918ba") set by default from domain config for user: admin1 in domain: app1
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("918ba") set by default from domain config for user: user1 in domain: app1
+2025-03-20 23:46:24 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("918ba") set by default from domain config for user: user2 in domain: app1
+2025-03-20 23:46:25 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("918ba") set by default from domain config for user: user3 in domain: app1
+2025-03-20 23:46:25 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("918ba") set by default from domain config for user: manager1 in domain: app1
+2025-03-20 23:52:16 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("a6734") for domain: sandcastle-auth
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("698ce") for domain: app1
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("54dd8") for domain: default
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN  ("08fdd") set from config for user: authadmin in domain: sandcastle-auth
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("698ce") set by default from domain config for user: admin1 in domain: app1
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("698ce") set by default from domain config for user: user1 in domain: app1
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("698ce") set by default from domain config for user: user2 in domain: app1
+2025-03-20 23:52:17 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("698ce") set by default from domain config for user: user3 in domain: app1
+2025-03-20 23:52:18 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("698ce") set by default from domain config for user: manager1 in domain: app1
+2025-03-20 23:55:45 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("83935") for domain: sandcastle-auth
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("225c6") for domain: app1
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: Generated random PIN  ("0285d") for domain: default
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN  ("08fdd") set from config for user: authadmin in domain: sandcastle-auth
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("225c6") set by default from domain config for user: admin1 in domain: app1
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("225c6") set by default from domain config for user: user1 in domain: app1
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("225c6") set by default from domain config for user: user2 in domain: app1
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("225c6") set by default from domain config for user: user3 in domain: app1
+2025-03-20 23:55:46 WARN  t.r.jwt.service.DatabaseInitService - ⚠️ SECURITY ALERT: User PIN ("225c6") set by default from domain config for user: manager1 in domain: app1
+2025-03-20 23:59:29 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:59:30 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:59:31 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.
+2025-03-20 23:59:32 INFO  t.r.j.JwtAuthApplication$$SpringCGLIB$$0 - BEGIN SECURITY LOG - Now logging important security events.

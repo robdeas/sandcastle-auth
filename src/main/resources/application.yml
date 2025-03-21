@@ -1,0 +1,136 @@
+server:
+  port: 18081
+
+spring:
+  web:
+    resources:
+      add-mappings: false
+  data:
+    rest:
+      base-path: /api/rest/
+      detection-strategy: annotated
+jwt:
+  token:
+    validity: 86400  # 24 hours in seconds
+
+app:
+  security:
+    roles:
+      - name: ADMIN
+        description: Auth Administrator role with full access
+        domain: sandcastle-auth
+
+      - name: ADMIN
+        description: Auth Administrator role with full access
+        domain: default
+
+      - name: ADMIN
+        description: Administrator role with full access
+        domain: app1
+
+      - name: USER
+        description: Regular user with limited access
+        domain: app1
+
+      - name: MANAGER
+        description: Manager role with elevated permissions
+        domain: app1
+
+    users:
+      - username: authadmin
+        password: adminpass
+        domain: sandcastle-auth
+        enabled: true
+        pin: 08fdd
+        roles:
+          - ADMIN
+
+      - username: admin1
+        password: admin1pass
+        domain: app1
+        enabled: true
+        roles:
+          - ADMIN
+
+      - username: user1
+        password: user1pass
+        domain: app1
+        enabled: true
+        roles:
+          - USER
+
+      - username: user2
+        password: user2pass
+        domain: app1
+        enabled: true
+        roles:
+          - USER
+
+      - username: user3
+        password: user3pass
+        domain: app1
+        enabled: true
+        roles:
+          - USER
+
+      - username: manager1
+        password: manager1pass
+        domain: app1
+        enabled: true
+        roles:
+          - MANAGER
+          - USER
+    domains:
+      - name: "sandcastle-auth"
+        display-name: "The Authentication Server internal admin domain"
+
+      - name: "app1"
+        display-name: "Domain APP1"
+
+      - name: "default"
+        display-name: "default domain"
+    settings:
+       randomPinDigits: 5
+       useSameRandomPinForWholeDomain: true
+       defaultDomain: default
+       enableDefaultDomain: true
+       singleDomain: false
+       passwordPartSeperator: "-"
+       authAdminDomainName: "sandcastle-auth"
+
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    root: INFO
+    tech.robd.jwt: DEBUG
+    org.springframework.security: DEBUG
+    org.springframework.web: INFO
+  file:
+    name: logs/application.log
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+  rollingpolicy:
+    file-name-pattern: logs/application-%d{yyyy-MM-dd}.%i.log
+    max-file-size: 30MB
+    max-history: 30
+    total-size-cap: 1GB
+# Profile-specific configurations
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    url: jdbc:postgresql://localhost:5432/jwt_auth
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
